@@ -1,0 +1,34 @@
+{
+  "百智云": {
+    "api_url": "https://model-square.app.baizhi.cloud/v1",
+    "api_secret": "vr2G4a9ltBS6iCM9ag0TCTrEDprI9JmrO4726KdqRc3ePVRD",
+    "model_name": ""
+  },
+  "DeepSeek": {
+    "api_url": "https://api.deepseek.com/v1",
+    "api_key": "",
+    "model_name": "v2"
+  },
+  "腾讯混元": {
+    "api_url": "https://api.hunyuan.cloud.tencent.com/v1",
+    "api_key": ""
+  },
+  "阿里云百炼": {
+    "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "api_key": "",
+    "model_name": "qwen-plus"
+  },
+  "火山引擎": {
+    "api_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "api_key": ""
+  },
+  "硅基流动": {
+    "api_url": "https://api.siliconflow.cn/v1",
+    "api_key": "",
+    "model_name": ""
+  },
+  "月之暗面": {
+    "api_url": "https://api.moonshot.cn/v1",
+    "api_key": ""
+  }
+}
