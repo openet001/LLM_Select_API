@@ -1,3 +1,12 @@
+一段用python编写的 LLM 大模型接口配置， 自动将选择保存为json文件。
+
+使用：
+
+pip install pillow
+
+python model-api2.py
+
+
 主流大模型API如下：
 
 百智云模型
